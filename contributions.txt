@@ -1,0 +1,4 @@
+Member Name        Contribution (%)
+John Doe           33.3
+Alice Smith        33.3
+You                33.4
