@@ -23,17 +23,20 @@ JavaChatApp - UniversityOfGreenwichCoursework
 5. Open a new command prompt for each client: 
    java Client 
 📎 Coursework Report (PDF): The PDF report includes our implementation details, screenshots, AI usage, and contribution table. 
-🔗 View the PDF here: [Insert your Google Drive share link here] 
+🔗 View the PDF here: [Insert your Google Drive share link here]
+
 🧪 JUnit Testing: Run the test to validate Singleton: 
-javac -cp .;junit-4.13.2.jar;hamcrest-core-1.3.jar ServerTest.java 
-java -cp .;junit-4.13.2.jar;hamcrest-core-1.3.jar org.junit.runner.JUnitCore ServerTest 
+  - javac -cp .;junit-4.13.2.jar;hamcrest-core-1.3.jar ServerTest.java 
+  - java -cp .;junit-4.13.2.jar;hamcrest-core-1.3.jar org.junit.runner.JUnitCore ServerTest
+
 ✅ Features Implemented: 
 - Broadcast and private messaging 
 - Unique client ID and name registration 
 - Dynamic coordinator assignment and reassignment (fault tolerance) 
 - Singleton design pattern for logging 
 - AI-assisted enhancements (instructions display, usability) 
-- JUnit test verification 
+- JUnit test verification
+ 
 👥 Group 51 Members: 
 - Bryan Hernandez Upegui 
 - Sushil Singh 
