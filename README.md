@@ -40,5 +40,5 @@ JavaChatApp - UniversityOfGreenwichCoursework
 👥 Group 51 Members: 
 - Bryan Hernandez Upegui 
 - Sushil Singh 
-- Ben Peverall 
-Thank you for reviewing our work!
+- Ben Peverall
+- Thank you for reviewing our work!
